@@ -38,7 +38,7 @@ class DataViewController: UIViewController {
             alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
             self.present(alert, animated: true)
         }
-        pigLatinText.text = "WOW! THIS CHANGED BECAUSE THE COUNT IS DIVISIBLE BY 9. DID YOU KNOW THAT IF THE SUM OF THE DIGITS OF A NUMBER ARE DIVISIBLE BY 9, THE NUMBER ITSELF IS DIVIDED BY 9?"
+        pigLatinText.text = "WOW! THIS CHANGED BECAUSE THE COUNT IS DIVISIBLE BY 9. DID YOU KNOW THAT IF THE SUM OF THE DIGITS OF A NUMBER ARE DIVISIBLE BY 9, THE NUMBER ITSELF IS DIVISIBLE BY 9?"
     }
     /*
     // MARK: - Navigation
